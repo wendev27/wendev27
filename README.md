@@ -4,12 +4,12 @@ I’m a student and self-taught developer focused on creating and deploying real
 I love learning new tools independently and continuously improving my projects.
 ---
 ## 🚀 Featured Live Projects
-### 🌊 Smart Flood Relief System
+### Smart Flood Relief System
 🌐 https://smart-flood-relief.vercel.app  
 A real-world web system focused on disaster preparedness and response.  
 **Features:** authentication, dashboards, structured data handling.
 
-### 🧭 SafeTrip Explorer PH
+### SafeTrip Explorer PH
 🌐 https://safetrip-explorer-ph.vercel.app/  
 A user-focused travel and safety web app designed for exploration and awareness.  
 **Focus:** UX, data presentation, and usability.
@@ -20,9 +20,18 @@ A user-focused travel and safety web app designed for exploration and awareness.
 ---
 ## 💻 Web Development Tech Stack
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,php,laravel,mysql,firebase,mongodb,vercel" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 <br/>
 <details>
