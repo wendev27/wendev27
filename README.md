@@ -40,26 +40,34 @@ A user-focused travel and safety web app designed for exploration and awareness.
 - Java (Android)
 - Flutter
 - React Native
+  
 ### 🎮 Game Development
 - Java
+  
 ### 🖥️ Systems & Hardware
 - C, C++
 - Assembly
 - Arduino
+  
 ### 🔗 Blockchain & Web3
 - Hardhat
+  
 ### 🚀 Currently Exploring
 - Python
 - COBOL
+  
 </details>
 ---
+
 ## 🌱 What I Care About
 - Building **complete, working projects**
 - Writing clean, understandable code
 - Learning new tools and technologies
 - Improving through real-world practice  
 - Being reliable, curious, and open to feedback
+  
 ---
+
 ## 📫 Let’s Connect
 - **GitHub:** [wendev27](https://github.com/wendev27)  
 - **Email:** wen.dev27@gmail.com
