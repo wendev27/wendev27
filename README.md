@@ -10,8 +10,7 @@ I love learning new tools independently and continuously improving my projects.
 **Features:** authentication, dashboards, structured data handling.
 
 ### SafeTrip Explorer PH
-🌐 https://safetrip-explorer-ph.vercel.app/  
-A user-focused travel and safety web app designed for exploration and awareness.  
+🌐 https://safetrip-explorer-ph.vercel.app/ A user-focused travel and safety web app designed for exploration and awareness.  
 **Focus:** UX, data presentation, and usability.
 
 ### 🔗 Other Live Demos
