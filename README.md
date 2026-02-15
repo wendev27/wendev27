@@ -4,10 +4,9 @@ I’m a student and self-taught developer focused on creating and deploying real
 I love learning new tools independently and continuously improving my projects.
 ---
 ## 🚀 Featured Live Projects
-### Smart Flood Relief System
-(Demo and Simulation) 
-🌐 https://smart-flood-relief.vercel.app 
-A real-world web system focused on disaster preparedness and response.  
+### Smart Flood Relief System 
+🌐 https://smart-flood-relief.vercel.app/
+(Demo and Simulation) A real-world web system focused on disaster preparedness and response.  
 **Features:** authentication, dashboards, structured data handling.
 
 ### SafeTrip Explorer PH
