@@ -7,9 +7,10 @@ I enjoy learning new tools independently and improving my projects continuously.
 🌐 https://smart-flood-relief.vercel.app/
 (Demo and Simulation) 
 - A real-world web system focused on disaster preparedness and response.  
-*Features: authentication, dashboards, structured data handling.
+Features: authentication, dashboards, structured data handling.
 # SafeTrip Explorer PH
-🌐 https://safetrip-explorer-ph.vercel.app/ A user-focused travel and safety web app designed for exploration and awareness.  
+🌐 https://safetrip-explorer-ph.vercel.app/ 
+- A user-focused travel and safety web app designed for exploration and awareness.  
 Focus: UX, data presentation, and usability.
 
 Other Live Demos
