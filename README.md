@@ -5,18 +5,18 @@ I enjoy learning new tools independently and improving my projects continuously.
    Featured Live Projects
 # Smart Flood Relief System 
 🌐 https://smart-flood-relief.vercel.app/
-(Demo and Simulation) A real-world web system focused on disaster preparedness and response.  
+(Demo and Simulation) 
+- A real-world web system focused on disaster preparedness and response.  
 *Features: authentication, dashboards, structured data handling.
-
 # SafeTrip Explorer PH
 🌐 https://safetrip-explorer-ph.vercel.app/ A user-focused travel and safety web app designed for exploration and awareness.  
 Focus: UX, data presentation, and usability.
 
-### Other Live Demos
+Other Live Demos
 - Blockchain App: https://my-block-chain-app.vercel.app/
 - Movie App: https://react-movie-app-ten-phi.vercel.app/
 
-## Web Development Tech Stack
+# Web Development Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -56,10 +56,10 @@ Focus: UX, data presentation, and usability.
 </details>
 
 # What I Care About
--Building complete, functional projects
--Writing clean, readable code
--Continuous learning and real-world practice
--Being reliable, curious, and open to feedback
+- Building complete, functional projects  
+- Writing clean, readable code  
+- Continuous learning and real-world practice  
+- Being reliable, curious, and open to feedback
 
 # Let’s Connect
 - GitHub: [wendev27](https://github.com/wendev27)  
