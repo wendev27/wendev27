@@ -1,23 +1,22 @@
-## 👋 Hi, I’m Wendell
+👋Hi, I’m Wendell
+I’m a student and self-taught developer building real-world web applications.
+I enjoy learning new tools independently and improving my projects continuously.
 
-I’m a student and self-taught developer focused on creating and deploying real-world web applications.  
-I love learning new tools independently and continuously improving my projects.
----
-## 🚀 Featured Live Projects
-### Smart Flood Relief System 
+   Featured Live Projects
+# Smart Flood Relief System 
 🌐 https://smart-flood-relief.vercel.app/
 (Demo and Simulation) A real-world web system focused on disaster preparedness and response.  
-**Features:** authentication, dashboards, structured data handling.
+*Features: authentication, dashboards, structured data handling.
 
-### SafeTrip Explorer PH
+# SafeTrip Explorer PH
 🌐 https://safetrip-explorer-ph.vercel.app/ A user-focused travel and safety web app designed for exploration and awareness.  
-**Focus:** UX, data presentation, and usability.
+Focus: UX, data presentation, and usability.
 
-### 🔗 Other Live Demos
-- ⛓️ Blockchain App: https://my-block-chain-app.vercel.app/
-- 🎬 Movie App: https://react-movie-app-ten-phi.vercel.app/
----
-## 💻 Web Development Tech Stack
+### Other Live Demos
+- Blockchain App: https://my-block-chain-app.vercel.app/
+- Movie App: https://react-movie-app-ten-phi.vercel.app/
+
+## Web Development Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -34,39 +33,34 @@ I love learning new tools independently and continuously improving my projects.
 </div>
 <br/>
 <details>
-<summary><strong>📦 Other Skills & Tools (Click to Expand)</strong></summary>
-### 📱 Mobile Development
+<summary><strong> Other Skills & Tools (Click to Expand)</strong></summary>
+# Mobile Development
 - Java (Android)
 - Flutter
 - React Native
   
-### 🎮 Game Development
+# Game Development
 - Java
   
-### 🖥️ Systems & Hardware
+# Systems & Hardware
 - C, C++
 - Assembly
 - Arduino
   
-### 🔗 Blockchain & Web3
+# Blockchain & Web3
 - Hardhat
   
-### 🚀 Currently Exploring
+# Currently Exploring
 - Python
 - COBOL
-  
 </details>
----
 
 ## 🌱 What I Care About
-- Building **complete, working projects**
-- Writing clean, understandable code
-- Learning new tools and technologies
-- Improving through real-world practice  
-- Being reliable, curious, and open to feedback
-  
----
+-Building complete, functional projects
+-Writing clean, readable code
+-Continuous learning and real-world practice
+-Being reliable, curious, and open to feedback
 
 ## 📫 Let’s Connect
-- **GitHub:** [wendev27](https://github.com/wendev27)  
-- **Email:** wen.dev27@gmail.com
+- GitHub: [wendev27](https://github.com/wendev27)  
+- Email: wen.dev27@gmail.com
