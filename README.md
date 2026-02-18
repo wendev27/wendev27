@@ -55,12 +55,12 @@ Focus: UX, data presentation, and usability.
 - COBOL
 </details>
 
-## 🌱 What I Care About
+# What I Care About
 -Building complete, functional projects
 -Writing clean, readable code
 -Continuous learning and real-world practice
 -Being reliable, curious, and open to feedback
 
-## 📫 Let’s Connect
+# Let’s Connect
 - GitHub: [wendev27](https://github.com/wendev27)  
 - Email: wen.dev27@gmail.com
