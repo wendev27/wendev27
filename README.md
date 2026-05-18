@@ -27,6 +27,7 @@ A disaster preparedness and emergency response platform focused on:
 - Authentication systems
 - Structured emergency data handling
 
+Served as the foundation for the SmartFlood V2 ecosystem and AI-assisted disaster response workflows.
 ---
 
 ### SmartFlood V2 – Malabon Command Center
@@ -146,11 +147,13 @@ Movie discovery web app built with React featuring:
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
 </div>
 
-## Backend
+## Databases & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
 </div>
 
 ## Databases & Cloud
