@@ -1,87 +1,88 @@
 # 👋 Hi, I'm Wendell
 
-> Building intelligent systems focused on real-world impact, disaster resilience, and scalable web technologies.
+A self-taught developer who enjoys building real-world projects and learning through hands-on experimentation.
 
-Full-stack developer focused on backend systems, intelligent web applications, disaster technology, and real-time monitoring platforms.
+I'm interested in:
+- Full-stack web development
+- Disaster technology systems
+- Human-in-the-Loop AI
+- IoT and real-time monitoring
+- Backend and system design
 
-I enjoy building projects that combine:
-- AI-assisted decision systems
-- Real-time monitoring
-- Modern web technologies
-- Human-centered UX
-- Scalable full-stack architecture
-- IoT and intelligent automation
+Most of my projects are built as a way to explore new technologies, improve my problem-solving skills, and gain practical development experience.
 
-Currently exploring Human-in-the-Loop AI, smart city technologies, advanced backend systems, and scalable infrastructure workflows.
+Currently exploring Human-in-the-Loop AI, smart city technologies, backend systems, and real-time application workflows.
+
 ---
+
+# 🚀 Featured Projects
 
 ## 🌊 SmartFlood Ecosystem
 
 ### SmartFlood V1 – Prototype Relief & Monitoring System
 🌐 https://smart-flood-relief.vercel.app/
 
-Prototype disaster preparedness and emergency response platform focused on:
+Prototype disaster preparedness and emergency response platform featuring:
 - Flood monitoring
 - Relief coordination
-- Dashboard analytics
+- Dashboard interfaces
 - Authentication systems
 - Structured emergency data handling
 
-Served as the foundation for the SmartFlood V2 ecosystem and AI-assisted disaster response workflows.
+This project became the starting point for later SmartFlood experiments and ideas.
+
 ---
 
 ### SmartFlood V2 – Malabon Command Center
 🌐 https://malabon-smartflood.vercel.app/
 
-Advanced disaster management dashboard featuring:
-- AI-assisted flood analysis
-- Barangay monitoring systems
+Ongoing disaster-response dashboard project focused on:
+- Flood monitoring
+- Barangay-based data visualization
 - Real-time flood readings
-- Human-in-the-Loop AI workflows
-- Emergency coordination dashboards
-- Resource prioritization systems
-- Decision-support visualization
+- AI-assisted prioritization experiments
+- Emergency coordination workflows
 
-Built as part of an ongoing disaster technology and intelligent systems initiative focused on flood preparedness and emergency response coordination.
+Currently being improved as part of my interest in disaster technology and intelligent systems.
+
 ---
 
 ### SmartFlood Public Landing Page
 🌐 https://smart-flood-landing-page.vercel.app/
 
-Public-facing platform designed for:
-- Community disaster awareness
-- Flood preparedness education
-- SmartFlood system presentation
-- Accessibility and public engagement
+Public-facing website created to present the SmartFlood project and its goals related to:
+- Flood preparedness awareness
+- Community information
+- Accessibility
+- Project presentation
+
 ---
 
-### SmartFlood AI Decision Engine
+### SmartFlood AI Decision System
 
-Human-in-the-Loop AI system using:
+Experimental Human-in-the-Loop AI workflow using:
 - AHP (Analytic Hierarchy Process)
 - Fuzzy Logic
 - Risk prioritization
-- Explainable AI-assisted recommendations
+- Decision-support recommendations
 
-Focused on improving:
-- Emergency response decisions
-- Resource allocation
-- Transparency in disaster management
-- Human oversight for critical operations
+Built as a learning project exploring how AI methods can assist with emergency-response decision making while still involving human oversight.
+
 ---
 
 ### SmartFlood IoT & Arduino Configuration System
 
-Arduino + Web Serial-based configuration platform for:
+Arduino + Web Serial-based configuration project for:
 - Sensor calibration
 - Water-level monitoring
-- Real-time device communication
-- IoT deployment management
+- Device communication
+- IoT experimentation
 
-Technologies:
+Technologies used:
 - Arduino / ESP32
 - Web Serial API
 - Real-time sensor integration
+
 ---
 
 ## 🧭 SafeTrip Explorer PH
@@ -90,14 +91,15 @@ Technologies:
 Travel and safety-focused web application designed for:
 - Exploration assistance
 - Safety awareness
-- Interactive information systems
-- User-centered experiences
+- Interactive information presentation
+- Responsive user experience
 
 Focus Areas:
 - UX Design
 - Data Visualization
 - Accessibility
-- Responsive UI
+- Frontend Development
+
 ---
 
 # 🌐 Other Live Projects
@@ -105,7 +107,8 @@ Focus Areas:
 ### Blockchain App
 🌐 https://my-block-chain-app.vercel.app/
 
-Blockchain and Web3 experimentation project using decentralized technologies and smart contract workflows.
+Small blockchain and Web3 experimentation project created while learning decentralized technologies and smart contract concepts.
+
 ---
 
 ### Movie App
@@ -114,36 +117,25 @@ Blockchain and Web3 experimentation project using decentralized technologies and
 Movie discovery web application featuring:
 - API integration
 - Responsive layouts
-- Dynamic search systems
-- Modern React architecture
+- Dynamic search functionality
+- React-based frontend development
+
 ---
 
-# 🧠 Areas of Interest
+# 🧠 Interests
 
 - Full-Stack Web Development
-- Backend Engineering
+- Backend Development
 - Human-in-the-Loop AI
 - Disaster Technology Systems
-- Smart City Applications
 - IoT & Real-Time Monitoring
-- AI-Assisted Decision Systems
 - Dashboard & Data Visualization
-- Blockchain Transparency Systems
-- Emergency Response Technologies
+- Smart City Concepts
+- Blockchain Experimentation
+
 ---
 
-# 🧩 System Design Interests
-
-- Real-time systems
-- Event-driven architectures
-- AI-assisted decision systems
-- IoT communication workflows
-- Dashboard-centric platforms
-- Scalable backend structures
-- Sensor-based monitoring systems
----
-
-# ⚙️ Core Technologies
+# ⚙️ Technologies & Tools
 
 ## Frontend
 <div align="left">
@@ -153,6 +145,7 @@ Movie discovery web application featuring:
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
 </div>
+
 ---
 
 ## Backend
@@ -161,6 +154,7 @@ Movie discovery web application featuring:
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
 </div>
+
 ---
 
 ## Databases & Cloud
@@ -172,20 +166,20 @@ Movie discovery web application featuring:
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
 </div>
+
 ---
 
-## Development Environment & Infrastructure
+## Development Environment
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
 </div>
 
 - Linux as primary development environment
-- Git-based workflow and version control
-- Containerized development with Docker
-- API-driven backend architectures
-- Cloud-integrated application workflows
+- Git-based version control workflows
+- Cloud-based deployment platforms
+- API-driven application development
+
 ---
 
 # 🛠 Other Skills & Technologies
@@ -212,61 +206,42 @@ Movie discovery web application featuring:
 
 ## Blockchain & Web3
 - Hardhat
-- Smart Contracts
 - Ethereum Testnet
+- Smart Contract Experimentation
 
 ## Game Development
 - Java
 
 ## Currently Exploring
 - COBOL
-- Advanced Backend Architectures
+- Backend Architectures
 - AI Decision Systems
-- Scalable Infrastructure Design
+- Real-time Systems
 
 </details>
----
 
-# ☁️ Deployment & Infrastructure
-
-- Vercel deployment workflows
-- Linux-based development environment
-- Cloud database integration
-- Real-time backend services
-- API-driven architectures
-- Full-stack deployment workflows
----
-
-# 🏗 Development Philosophy
-
-I enjoy building systems that prioritize:
-- real-world usability
-- scalability
-- intelligent automation
-- transparency
-- practical implementation
-
-My projects focus on solving meaningful problems through continuous learning and hands-on development instead of tutorial-based cloning.
 ---
 
 # 📚 Current Focus
 
-Currently building and improving:
+Currently exploring and improving:
 - SmartFlood V2
 - Human-in-the-Loop AI systems
-- Arduino Web Serial configuration tools
-- Disaster-response dashboards
-- AI-assisted prioritization systems
+- Arduino Web Serial workflows
 - Real-time monitoring platforms
+- Dashboard-based applications
+- AI-assisted prioritization experiments
+
 ---
 
 # 🤝 Collaboration
 
 Open to:
-- Freelance opportunities
+- Learning opportunities
 - Collaborative projects
-- Open-source learning
-- Real-world system development
+- Open-source exploration
+- Real-world development experience
+
 ---
 
 # 📈 GitHub Stats
@@ -275,12 +250,14 @@ Open to:
   <img src="https://github-readme-stats.vercel.app/api?username=wendev27&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendev27&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
 ---
 
 # 🤝 Let's Connect
 
 - GitHub: [wendev27](https://github.com/wendev27)
 - Email: wen.dev27@gmail.com
+
 ---
 
-⭐ Always learning, building, and improving through real-world projects.
+⭐ Always learning, experimenting, and improving through hands-on projects.
