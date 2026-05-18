@@ -11,10 +11,9 @@ I'm interested in:
 
 Most of my projects are built as a way to explore new technologies, improve my problem-solving skills, and gain practical development experience.
 
-Currently exploring Human-in-the-Loop AI, smart city technologies, backend systems, and real-time application workflows.
+Currently exploring Human-in-the-Loop AI, smart city technologies, backend systems, network security concepts, and real-time application workflows.
 
 ---
-
 # 🚀 Featured Projects
 
 ## 🌊 SmartFlood Ecosystem
@@ -32,7 +31,6 @@ Prototype disaster preparedness and emergency response platform featuring:
 This project became the starting point for later SmartFlood experiments and ideas.
 
 ---
-
 ### SmartFlood V2 – Malabon Command Center
 🌐 https://malabon-smartflood.vercel.app/
 
@@ -46,7 +44,6 @@ Ongoing disaster-response dashboard project focused on:
 Currently being improved as part of my interest in disaster technology and intelligent systems.
 
 ---
-
 ### SmartFlood Public Landing Page
 🌐 https://smart-flood-landing-page.vercel.app/
 
@@ -55,9 +52,7 @@ Public-facing website created to present the SmartFlood project and its goals re
 - Community information
 - Accessibility
 - Project presentation
-
 ---
-
 ### SmartFlood AI Decision System
 
 Experimental Human-in-the-Loop AI workflow using:
@@ -69,8 +64,8 @@ Experimental Human-in-the-Loop AI workflow using:
 Built as a learning project exploring how AI methods can assist with emergency-response decision making while still involving human oversight.
 
 ---
-
 ### SmartFlood IoT & Arduino Configuration System
+🌐 https://arduino-configuration-management-we.vercel.app/
 
 Arduino + Web Serial-based configuration project for:
 - Sensor calibration
@@ -82,9 +77,7 @@ Technologies used:
 - Arduino / ESP32
 - Web Serial API
 - Real-time sensor integration
-
 ---
-
 ## 🧭 SafeTrip Explorer PH
 🌐 https://safetrip-explorer-ph.vercel.app/
 
@@ -99,9 +92,7 @@ Focus Areas:
 - Data Visualization
 - Accessibility
 - Frontend Development
-
 ---
-
 # 🌐 Other Live Projects
 
 ### Blockchain App
@@ -110,7 +101,6 @@ Focus Areas:
 Small blockchain and Web3 experimentation project created while learning decentralized technologies and smart contract concepts.
 
 ---
-
 ### Movie App
 🌐 https://react-movie-app-ten-phi.vercel.app/
 
@@ -119,9 +109,7 @@ Movie discovery web application featuring:
 - Responsive layouts
 - Dynamic search functionality
 - React-based frontend development
-
 ---
-
 # 🧠 Interests
 
 - Full-Stack Web Development
@@ -132,9 +120,31 @@ Movie discovery web application featuring:
 - Dashboard & Data Visualization
 - Smart City Concepts
 - Blockchain Experimentation
-
+- Network & Security Experimentation
 ---
+# 🛡 Cybersecurity & Network Experimentation
 
+Learning and experimenting with:
+- OPNsense firewall configuration
+- Network segmentation and static IP configuration
+- RBAC-focused network isolation
+- Sequential firewall rule testing
+- Virtual lab environments using Linux, Windows, and Kali Linux
+- Basic defensive security testing in isolated environments
+
+Example lab setup:
+- Students Network → Ubuntu-based systems (192.168.30.x)
+- Teachers Network → Windows-based systems (192.168.20.x)
+- Admin Network → Administrative/Kali Linux systems (192.168.11.x)
+
+Practice areas:
+- Firewall and access rule configuration
+- Gateway and subnet management
+- Access control experimentation
+- SQL injection awareness and testing
+- DoS simulation in controlled lab environments
+- Network traffic analysis and experimentation
+---
 # ⚙️ Technologies & Tools
 
 ## Frontend
@@ -145,18 +155,14 @@ Movie discovery web application featuring:
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
 </div>
-
 ---
-
 ## Backend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
 </div>
-
 ---
-
 ## Databases & Cloud
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
@@ -166,9 +172,7 @@ Movie discovery web application featuring:
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
 </div>
-
 ---
-
 ## Development Environment
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
@@ -219,9 +223,7 @@ Movie discovery web application featuring:
 - Real-time Systems
 
 </details>
-
 ---
-
 # 📚 Current Focus
 
 Currently exploring and improving:
@@ -231,9 +233,7 @@ Currently exploring and improving:
 - Real-time monitoring platforms
 - Dashboard-based applications
 - AI-assisted prioritization experiments
-
 ---
-
 # 🤝 Collaboration
 
 Open to:
@@ -241,14 +241,10 @@ Open to:
 - Collaborative projects
 - Open-source exploration
 - Real-world development experience
-
 ---
-
 # 🤝 Let's Connect
 
 - GitHub: [wendev27](https://github.com/wendev27)
 - Email: wen.dev27@gmail.com
-
 ---
-
 ⭐ Always learning, experimenting, and improving through hands-on projects.
