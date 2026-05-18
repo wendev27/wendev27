@@ -156,14 +156,6 @@ Movie discovery web app built with React featuring:
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
 </div>
 
-## Databases & Cloud
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
-</div>
-
 ---
 
 # 🛠 Other Skills & Technologies
