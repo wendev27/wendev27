@@ -244,15 +244,6 @@ Open to:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wendev27&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendev27&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 # 🤝 Let's Connect
 
 - GitHub: [wendev27](https://github.com/wendev27)
