@@ -2,7 +2,8 @@
 
 Self-taught developer focused on building real-world projects and learning through hands-on experimentation.
 
-🌐 Portfolio → https://www.wendev.app/  
+🌐 Portfolio → https://www.wendev.app/
+🤝 Volunteer Fullstack Dev @ Codebility 
 📧 Email → wen.dev27@gmail.com
 
 ---
