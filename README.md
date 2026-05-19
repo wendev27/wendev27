@@ -7,25 +7,6 @@ Self-taught developer focused on building real-world projects and learning throu
 
 ---
 
-## 🛡 Cybersecurity & Network Experimentation
-
-Learning and experimenting with:
-- OPNsense firewall configuration
-- Network segmentation
-- Static IP configuration
-- RBAC-focused network isolation
-- Virtual lab environments using Linux, Windows, and Kali Linux
-- Basic defensive security testing in isolated environments
-
-Practice areas include:
-- Firewall rule configuration
-- Gateway and subnet management
-- Access control experimentation
-- SQL injection awareness
-- DoS simulation in controlled lab environments
-
----
-
 ## ⚙️ Technologies & Tools
 
 ### Frontend
@@ -48,6 +29,8 @@ Practice areas include:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </div>
+- Linux as primary development environment
+- Git-based version control workflows
 
 ### Other Technologies
 - Arduino / ESP32
@@ -59,12 +42,6 @@ Practice areas include:
 - C / C++ / Assembly
 ---
 
-### Development Environment
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</div>
 
-- Linux as primary development environment
-- Git-based version control workflows
 
 ⭐ Always learning, experimenting, and improving through hands-on projects.
