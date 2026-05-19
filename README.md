@@ -3,7 +3,7 @@
 Self-taught developer focused on building real-world projects and learning through hands-on experimentation.
 
 🌐 Portfolio → https://www.wendev.app/
-🤝 Volunteer Fullstack Dev @ Codebility 
+🤝 Volunteer Fullstack Dev @ [Codebility](https://codebility.tech)
 📧 Email → wen.dev27@gmail.com
 
 ---
@@ -36,13 +36,12 @@ Self-taught developer focused on building real-world projects and learning throu
 ### Other Technologies
 - Arduino / ESP32
 - Python
+- Java (Android & Game Dev)
+- C# (Desktop & Hardware Integration)
 - Firebase
 - Hardhat
 - React Native
 - Flutter
 - C / C++ / Assembly
----
-
-
 
 ⭐ Always learning, experimenting, and improving through hands-on projects.
