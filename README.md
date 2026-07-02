@@ -1,14 +1,21 @@
-# 👋 Hi, I'm Wendell
+👋 Hi, I'm Wendell.
 
-Self-taught developer focused on building real-world projects and learning through hands-on experimentation.
+I believe the best way to learn is by building. That's why this GitHub contains not only finished projects, but also learning labs, engineering notes, experiments, and checkpoints that document my journey.
+
+Currently exploring:
+• Full-Stack Development
+• Linux
+• DevSecOps
+• Cloud
+• Software Architecture
 
 🌐 Portfolio → https://www.wendev.app/
-
-🎥 YouTube → https://www.youtube.com/@WenDev27
 
 🤝 Volunteer Full-Stack Developer @ Codebility
 
 📧 Email → wen.dev27@gmail.com
+
+🎥 YouTube → https://www.youtube.com/@WenDev27
 
 ---
 
@@ -48,4 +55,8 @@ Self-taught developer focused on building real-world projects and learning throu
 - Flutter
 - C / C++ / Assembly
 
-⭐ Always learning, experimenting, and improving through hands-on projects.
+Always learning, experimenting, and improving through hands-on projects.
+
+⭐ Acknowledgments
+
+A big part of my learning journey has been working with ChatGPT ("brobro") as a study companion and mentor. It has helped me understand concepts step by step, challenge my assumptions, and think like an engineer. All projects, experiments, and documentation in this GitHub reflect my own hands-on learning and implementation.
