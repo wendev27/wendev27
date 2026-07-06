@@ -44,7 +44,7 @@ I enjoy understanding how software works from the frontend all the way down to o
   <img src="https://cdn.simpleicons.org/vercel" height="48" />
   <img src="https://cdn.simpleicons.org/railway" height="48" />
   <img src="https://cdn.simpleicons.org/render" height="48" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="48" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" height="48" />
 </div>
 
 ### Development Workflow
