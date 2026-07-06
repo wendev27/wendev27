@@ -41,17 +41,14 @@ I enjoy understanding how software works from the frontend all the way down to o
 
 ### Deployment Platforms
 <div align="left">
-  <img src="https://cdn.simpleicons.org/vercel" height="48" />
-  <img src="https://cdn.simpleicons.org/railway" height="48" />
-  <img src="https://cdn.simpleicons.org/render" height="48" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" height="48" />
+  `Vercel` • `Railway` • `Render` • `Heroku`
 </div>
 
 ### Development Workflow
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </div>
-- Linux as my primary development environment
+- Linux as my primary development environment <br>
 - Git branching, pull requests, and version control workflows
 
 ### Other Technologies
