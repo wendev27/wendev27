@@ -1,21 +1,23 @@
 👋 Hi, I'm Wendell.
 
-I believe the best way to learn is by building. That's why this GitHub contains not only finished projects, but also learning labs, engineering notes, experiments, and checkpoints that document my journey.
+I believe the best way to learn is by building.
 
-Currently exploring:
-• Full-Stack Development
-• Linux
-• DevSecOps
-• Cloud
-• Software Architecture
+I enjoy understanding how software works from the frontend all the way down to operating systems, networking, deployment, and cloud infrastructure.
 
-🌐 Portfolio → https://www.wendev.app/
+## 🚀 Currently Exploring
+- Full-Stack Engineering
+- Linux
+- DevSecOps
+- Cloud Computing
+- Software Architecture
 
-🤝 Volunteer Full-Stack Developer @ Codebility
+🌐 **Portfolio** [wendev.app](https://www.wendev.app)
 
-📧 Email → wen.dev27@gmail.com
+🤝 **Volunteer Full-Stack Developer:** Codebility
 
-🎥 YouTube → https://www.youtube.com/@WenDev27
+📧 **Email** wen.dev27@gmail.com
+
+🎥 **YouTube** [@WenDev27](https://www.youtube.com/@WenDev27)
 
 ---
 
@@ -31,32 +33,48 @@ Currently exploring:
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 </div>
 
-### Databases & Cloud
+### Databases 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
 </div>
 
-### Development Environment
+### Deployment Platforms
+<div align="left">
+  <img src="https://cdn.simpleicons.org/vercel" height="48" />
+  <img src="https://cdn.simpleicons.org/railway" height="48" />
+  <img src="https://cdn.simpleicons.org/render" height="48" />
+  <img src="https://cdn.simpleicons.org/heroku" height="48" />
+</div>
+
+### Development Workflow
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </div>
-- Linux as primary development environment
-- Git-based version control workflows
+- Linux as my primary development environment
+- Git branching, pull requests, and version control workflows
 
 ### Other Technologies
-- Arduino / ESP32
 - Python
-- Java (Android & Game Dev)
-- C# (Desktop & Hardware Integration)
-- Firebase
-- Hardhat
+- Java
 - React Native
 - Flutter
+- Arduino / ESP32
+- Hardhat
+- C#
 - C / C++ / Assembly
 
+## 🌱 Mindset
 Always learning, experimenting, and improving through hands-on projects.
 
-⭐ Acknowledgments
+## ⭐ Acknowledgments
+A big part of my learning journey has been learning alongside ChatGPT ("brobro") as a study companion and mentor. It has helped me understand concepts step by step, challenge my assumptions, and develop stronger engineering habits.
 
-A big part of my learning journey has been working with ChatGPT ("brobro") as a study companion and mentor. It has helped me understand concepts step by step, challenge my assumptions, and think like an engineer. All projects, experiments, and documentation in this GitHub reflect my own hands-on learning and implementation.
+All projects, experiments, and documentation in this GitHub reflect my own hands-on learning and implementation.
+
+---
+
+## 📚 Philosophy
+I believe learning is most effective when concepts are applied through real projects. This GitHub documents not only what I've built, but also how I learned—through experiments, notes, checkpoints, and continuous iteration.
+
+Every repository represents another step in my journey toward becoming a better software engineer.
