@@ -1,77 +1,104 @@
-👋 Hi, I'm Wendell.
+# 👋 Hi, I'm Wendell
 
-I believe the best way to learn is by building.
+I'm an IT student passionate about backend engineering, DevSecOps, and cloud infrastructure.
 
-I enjoy understanding how software works from the frontend all the way down to operating systems, networking, deployment, and cloud infrastructure.
+I enjoy understanding how software works—from application code and APIs to containers, observability, security, and deployment pipelines.
+
+My projects focus on building secure, production-inspired systems while documenting the learning process behind them.
+
+---
 
 ## 🚀 Currently Exploring
-- Full-Stack Engineering
-- Linux
-- DevSecOps
-- Cloud Computing
-- Software Architecture
 
-🌐 **Portfolio** [wendev.app](https://www.wendev.app)
+* Backend Engineering
+* Linux
+* DevSecOps
+* Cloud Computing
+* Software Architecture
 
-🤝 **Volunteer Full-Stack Developer:** Codebility
+🌐 **Portfolio:** [wendev.app](https://www.wendev.app)
 
-📧 **Email** wen.dev27@gmail.com
+🤝 **Volunteer Software Developer:** Codebility
 
-🎥 **YouTube** [@WenDev27](https://www.youtube.com/@WenDev27)
+📧 **Email:** [wen.dev27@gmail.com](mailto:wen.dev27@gmail.com)
+
+🎥 **YouTube:** [@WenDev27](https://www.youtube.com/@WenDev27)
 
 ---
 
 ## ⚙️ Technologies & Tools
 
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</div>
-
 ### Backend
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 </div>
 
-### Databases 
+### Databases
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
 </div>
 
+### DevOps & Development Workflow
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions" />
+</div>
+
+* Linux as my primary development environment
+* Git branching, pull requests, and collaborative workflows
+* Containerization and deployment experiments
+* Learning CI/CD, observability, and secure software engineering practices
+
 ### Deployment Platforms
+
+* Vercel
+* Railway
+* Render
+* Heroku
+
+### Frontend
+
 <div align="left">
-  `Vercel` • `Railway` • `Render` • `Heroku`
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
 </div>
 
-### Development Workflow
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</div>
-- Linux as my primary development environment <br>
-- Git branching, pull requests, and version control workflows
+### Additional Technologies Explored
 
-### Other Technologies
-- Python
-- Java
-- React Native
-- Flutter
-- Arduino / ESP32
-- Hardhat
-- C#
-- C / C++ / Assembly
-
-## 🌱 Mindset
-Always learning, experimenting, and improving through hands-on projects.
-
-## ⭐ Acknowledgments
-A big part of my learning journey has been learning alongside ChatGPT ("brobro") as a study companion and mentor. It has helped me understand concepts step by step, challenge my assumptions, and develop stronger engineering habits.
-
-All projects, experiments, and documentation in this GitHub reflect my own hands-on learning and implementation.
+* Python
+* Java
+* React Native
+* Flutter
+* Arduino / ESP32
+* Hardhat
+* C#
+* C / C++ / Assembly
 
 ---
 
-## 📚 Philosophy
-I believe learning is most effective when concepts are applied through real projects. This GitHub documents not only what I've built, but also how I learned—through experiments, notes, checkpoints, and continuous iteration.
+## 🌱 Learning Approach
 
-Every repository represents another step in my journey toward becoming a better software engineer.
+I believe learning is most effective when concepts are applied through real projects.
+
+This GitHub documents my journey through experiments, checkpoints, and hands-on projects exploring backend engineering, DevSecOps, and cloud infrastructure.
+
+Many repositories include notes and documentation that capture not only what I built, but also the reasoning, trade-offs, and lessons learned along the way.
+
+My goal is not only to build applications, but also to understand the systems behind them.
+
+---
+
+## 📚 Featured Learning
+
+If you're interested in my learning process, the repositories below showcase how I approach software engineering:
+
+* **DevSecOps-Learning-Lab** — experiments, checkpoints, and notes on Linux, Docker, CI/CD, observability, and security.
+* **Sentinel-Core** — exploring backend architecture, event-driven systems, and production-inspired workflows.
+* **DevOps-War-Room** — hands-on experiments with monitoring, infrastructure, and real-time systems.
+* **SmartFlood** — a disaster management platform integrating monitoring, AI-assisted decision-making, and full-stack development.
+
+---
+
+> I believe the best way to learn is by building, documenting, and continuously improving—one project at a time.
