@@ -1,104 +1,125 @@
 # 👋 Hi, I'm Wendell
 
-I'm an IT student passionate about backend engineering, DevSecOps, and cloud infrastructure.
+<p align="left">
+  <a href="https://www.wendev.app">
+    <img src="https://img.shields.io/badge/Portfolio-wendev.app-orange?style=for-the-badge" />
+  </a>
+  <a href="mailto:wen.dev27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/@WenDev27">
+    <img src="https://img.shields.io/badge/YouTube-WenDev27-red?style=for-the-badge&logo=youtube" />
+  </a>
+  <img src="https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-I enjoy understanding how software works—from application code and APIs to containers, observability, security, and deployment pipelines.
+I'm an IT student with a strong interest in **backend engineering**, **DevSecOps**, and **cloud infrastructure**.
 
-My projects focus on building secure, production-inspired systems while documenting the learning process behind them.
+I enjoy understanding how software works beyond writing application code—from designing APIs and databases to containerization, deployment pipelines, observability, and secure software practices.
 
----
-
-## 🚀 Currently Exploring
-
-* Backend Engineering
-* Linux
-* DevSecOps
-* Cloud Computing
-* Software Architecture
-
-🌐 **Portfolio:** [wendev.app](https://www.wendev.app)
-
-🤝 **Volunteer Software Developer:** Codebility
-
-📧 **Email:** [wen.dev27@gmail.com](mailto:wen.dev27@gmail.com)
-
-🎥 **YouTube:** [@WenDev27](https://www.youtube.com/@WenDev27)
+Most of my projects are **learning-driven** and **production-inspired**. I enjoy documenting not only what I build, but also the reasoning, trade-offs, and lessons learned throughout the process.
 
 ---
 
-## ⚙️ Technologies & Tools
+# 🎯 Current Focus
 
-### Backend
+- 🧩 Backend Engineering
+- 🐧 Linux
+- 🐳 Docker & Containerization
+- 🔒 DevSecOps
+- ☁️ Cloud Infrastructure
+- 🏗️ Software Architecture
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
-</div>
+---
 
-### Databases
+# 🤝 Connect
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
-</div>
+🌐 **Portfolio**  
+https://www.wendev.app
 
-### DevOps & Development Workflow
+🤝 **Volunteer Software Developer**  
+Codebility
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions" />
-</div>
+📧 **Email**  
+wen.dev27@gmail.com
 
-* Linux as my primary development environment
-* Git branching, pull requests, and collaborative workflows
-* Containerization and deployment experiments
-* Learning CI/CD, observability, and secure software engineering practices
+🎥 **YouTube**  
+https://www.youtube.com/@WenDev27
+
+---
+
+# ⚙️ Tech Stack
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48"/>
+</p>
+
+## DevOps & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,bash" />
+</p>
 
 ### Deployment Platforms
 
-* Vercel
-* Railway
-* Render
-* Heroku
-
-### Frontend
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</div>
-
-### Additional Technologies Explored
-
-* Python
-* Java
-* React Native
-* Flutter
-* Arduino / ESP32
-* Hardhat
-* C#
-* C / C++ / Assembly
+- Vercel
+- Railway
+- Render
 
 ---
 
-## 🌱 Learning Approach
+# 🧠 Engineering Mindset
 
-I believe learning is most effective when concepts are applied through real projects.
+I enjoy understanding not only **how** systems work, but also **why** they are designed that way.
 
-This GitHub documents my journey through experiments, checkpoints, and hands-on projects exploring backend engineering, DevSecOps, and cloud infrastructure.
+Software engineering is more than writing code—it involves making thoughtful trade-offs, documenting decisions, and continuously improving systems over time.
 
-Many repositories include notes and documentation that capture not only what I built, but also the reasoning, trade-offs, and lessons learned along the way.
-
-My goal is not only to build applications, but also to understand the systems behind them.
+That's why many of my repositories include documentation, implementation notes, architectural decisions, and learning checkpoints alongside the source code.
 
 ---
 
-## 📚 Featured Learning
+# 🌱 Always Learning
 
-If you're interested in my learning process, the repositories below showcase how I approach software engineering:
+I'm continuously exploring topics that strengthen my understanding of modern software engineering, including:
 
-* **DevSecOps-Learning-Lab** — experiments, checkpoints, and notes on Linux, Docker, CI/CD, observability, and security.
-* **Sentinel-Core** — exploring backend architecture, event-driven systems, and production-inspired workflows.
-* **DevOps-War-Room** — hands-on experiments with monitoring, infrastructure, and real-time systems.
-* **SmartFlood** — a disaster management platform integrating monitoring, AI-assisted decision-making, and full-stack development.
+- API Design
+- Database Design
+- Authentication & Authorization
+- CI/CD
+- Observability
+- Infrastructure Fundamentals
+- Secure Software Development
+- System Design
+
+I believe the best way to learn these concepts is by building real projects, experimenting, making mistakes, and continuously improving.
 
 ---
 
-> I believe the best way to learn is by building, documenting, and continuously improving—one project at a time.
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wendev27&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendev27&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+> *"Small steps. Long horizons."*
