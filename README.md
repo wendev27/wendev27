@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Wendell</h1>
- 
+
 <p align="center">
   <a href="https://www.wendev.app">
     <img src="https://img.shields.io/badge/Portfolio-wendev.app-orange?style=for-the-badge" />
@@ -12,65 +12,67 @@
   </a>
   <img src="https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 <p align="center">
 I'm an IT student with a strong interest in <b>backend engineering</b>, <b>DevSecOps</b>, and <b>cloud infrastructure</b>.
 </p>
+
 I enjoy understanding how software works beyond writing application code — from designing APIs and databases to containerization, deployment pipelines, observability, and secure software practices.
- 
+
 Most of my projects are **learning-driven** and **production-inspired**. I enjoy documenting not only what I build, but also the reasoning, trade-offs, and lessons learned throughout the process.
- 
-<br>
+
 ## 🎯 Current Focus
- 
+
 - 🧩 Backend Engineering
 - 🐧 Linux
 - 🐳 Docker & Containerization
 - 🔒 DevSecOps
 - ☁️ Cloud Infrastructure
 - 🏗️ Software Architecture
-<br>
+
 ## 🤝 Connect
- 
+
 | | |
 |---|---|
 | 🌐 **Portfolio** | [wendev.app](https://www.wendev.app) |
 | 🤝 **Volunteer Software Developer** | Codebility |
 | 📧 **Email** | [wen.dev27@gmail.com](mailto:wen.dev27@gmail.com) |
 | 🎥 **YouTube** | [@WenDev27](https://www.youtube.com/@WenDev27) |
- 
-<br>
+
 ## ⚙️ Tech Stack
- 
+
 **Backend**
- 
+
 <img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel" />
+
 **Frontend**
- 
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+
 **Databases**
- 
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" /> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48"/>
- 
+
 **DevOps & Workflow**
- 
+
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,bash" />
+
 **Deployment Platforms**
- 
-<img src="https://skillicons.dev/icons?i=vercel,railway,render" />
-<br>
+
+<img src="https://skillicons.dev/icons?i=vercel" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48"/>
+
 ## 🧠 Engineering Mindset
- 
+
 I enjoy understanding not only **how** systems work, but also **why** they are designed that way.
- 
+
 Software engineering is more than writing code — it involves making thoughtful trade-offs, documenting decisions, and continuously improving systems over time.
- 
+
 That's why many of my repositories include documentation, implementation notes, architectural decisions, and learning checkpoints alongside the source code.
- 
-<br>
+
 ## 🌱 Always Learning
- 
+
 I'm continuously exploring topics that strengthen my understanding of modern software engineering, including:
- 
+
 - API Design
 - Database Design
 - Authentication & Authorization
@@ -79,9 +81,11 @@ I'm continuously exploring topics that strengthen my understanding of modern sof
 - Infrastructure Fundamentals
 - Secure Software Development
 - System Design
+
 I believe the best way to learn these concepts is by building real projects, experimenting, making mistakes, and continuously improving.
- 
-<br>
+
+---
+
 <p align="center">
 <i>"Small steps. Long horizons."</i>
 </p>
