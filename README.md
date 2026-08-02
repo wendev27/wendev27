@@ -59,7 +59,19 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Deployment Platforms**
 
-<img src="https://skillicons.dev/icons?i=vercel" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/vercel/white" width="40"/><br/>Vercel
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/railway/white" width="40"/><br/>Railway
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/render/white" width="40"/><br/>Render
+</td>
+</tr>
+</table>
 
 ## 🧠 Engineering Mindset
 
