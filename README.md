@@ -113,11 +113,14 @@ I believe the best way to learn these concepts is by building real projects, exp
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wendev27&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendev27&layout=compact&hide_border=true&theme=transparent"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=wendev27&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendev27&layout=compact&theme=transparent&hide_border=true"
+  />
 </p>
 
 ---
