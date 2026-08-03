@@ -70,8 +70,15 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 <td align="center">
 <img src="https://cdn.simpleicons.org/render/white" width="40"/><br/>Render
 </td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/heroku/white" width="40"/><br/>Heroku
+</td>
 </tr>
 </table>
+
+**Also Explored**
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,arduino,mssql" />
 
 ## 🧠 Engineering Mindset
 
