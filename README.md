@@ -51,8 +51,7 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,mssql" />
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,mssql" /><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48"/>
 
 **DevOps & Workflow**
 
