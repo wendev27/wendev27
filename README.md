@@ -51,7 +51,7 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,mssql,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" /><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftsqlserver.svg" width="48"/>
 
 **DevOps & Workflow**
 
@@ -62,19 +62,19 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" width="40"/><br/>Vercel
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=railway" width="48"/><br/>Railway
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/railway.svg" width="40"/><br/>Railway
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=render" width="48"/><br/>Render
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/render.svg" width="40"/><br/>Render
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=heroku" width="48"/><br/>Heroku
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/heroku.svg" width="40"/><br/>Heroku
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/googlecloud/white" width="48"/><br/>Cloud Run
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlecloud.svg" width="40"/><br/>Cloud Run
 </td>
 </tr>
 </table>
