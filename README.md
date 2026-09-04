@@ -7,37 +7,28 @@
   <a href="mailto:wen.dev27@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@WenDev27">
-    <img src="https://img.shields.io/badge/YouTube-WenDev27-red?style=for-the-badge&logo=youtube" />
-  </a>
-  <img src="https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
-I'm an IT student with a strong interest in <b>backend engineering</b>, <b>DevSecOps</b>, and <b>cloud infrastructure</b>.
+4th-year IT student (Mobile & Web App Development) transitioning into <b>backend engineering</b> and <b>DevSecOps</b>. Volunteer developer at <a href="https://github.com/codebility">Codebility</a>, contributing to a production codebase under senior engineer review.
 </p>
-
-I enjoy understanding how software works beyond writing application code — from designing APIs and databases to containerization, deployment pipelines, observability, and secure software practices.
-
-Most of my projects are **learning-driven** and **production-inspired**. I enjoy documenting not only what I build, but also the reasoning, trade-offs, and lessons learned throughout the process.
 
 ## 🎯 Current Focus
 
-- 🧩 Backend Engineering
-- 🐧 Linux
-- 🐳 Docker & Containerization
-- 🔒 DevSecOps
-- ☁️ Cloud Infrastructure
-- 🏗️ Software Architecture
+- Backend Engineering (Node.js / TypeScript)
+- Docker & Containerization
+- CI/CD & DevSecOps practices
+- Cloud infrastructure fundamentals (AWS)
 
-## 🤝 Connect
+## 📌 Projects
 
-| | |
-|---|---|
-| 🌐 **Portfolio** | [wendev.app](https://www.wendev.app) |
-| 🤝 **Volunteer Software Developer** | Codebility |
-| 📧 **Email** | [wen.dev27@gmail.com](mailto:wen.dev27@gmail.com) |
-| 🎥 **YouTube** | [@WenDev27](https://www.youtube.com/@WenDev27) |
+**[SmartFlood](https://github.com/wendev27/SmartFlood-V3)** — Flood monitoring and disaster-response platform. Currently migrating V3 → V4 to move business logic out of the frontend and into a proper backend service layer.
+
+**[DevSecOps-Learning-Lab](https://github.com/wendev27/DevSecOps-Learning-Lab)** — Hands-on DevSecOps practice: containerization, pipelines, and secure deployment workflows, documented as I build them.
+
+**PayMongo Webhook Integration** — Practice project handling PayMongo webhook events end-to-end, built as a freelance-readiness proof piece.
+
+*(Swap in real links/repo names above — I used placeholders based on what you've described.)*
 
 ## ⚙️ Tech Stack
 
@@ -170,31 +161,8 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 </tr>
 </table>
 
-## 🧠 Engineering Mindset
+## 🌱 Currently Learning
 
-I enjoy understanding not only **how** systems work, but also **why** they are designed that way.
+API design · database design · CI/CD · observability · infrastructure fundamentals · secure software development · system design
 
-Software engineering is more than writing code — it involves making thoughtful trade-offs, documenting decisions, and continuously improving systems over time.
-
-That's why many of my repositories include documentation, implementation notes, architectural decisions, and learning checkpoints alongside the source code.
-
-## 🌱 Always Learning
-
-I'm continuously exploring topics that strengthen my understanding of modern software engineering, including:
-
-- API Design
-- Database Design
-- Authentication & Authorization
-- CI/CD
-- Observability
-- Infrastructure Fundamentals
-- Secure Software Development
-- System Design
-
-I believe the best way to learn these concepts is by building real projects, experimenting, making mistakes, and continuously improving.
-
----
-
-<p align="center">
-<i>"Small steps. Long horizons."</i>
-</p>
+Learning happens through building — most repos above include implementation notes and the trade-offs behind them, not just source code.
