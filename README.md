@@ -73,6 +73,9 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 <td align="center">
 <img src="https://cdn.simpleicons.org/heroku/white" width="40"/><br/>Heroku
 </td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/googlecloud/white" width="40"/><br/>Cloud Run
+</td>
 </tr>
 </table>
 
