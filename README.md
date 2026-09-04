@@ -137,7 +137,7 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=railway" width="48"/><br/>Railway
+<img src="https://cdn.simpleicons.org/railway/white" width="40"/><br/>Railway
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/render/white" width="48"/><br/>Render
