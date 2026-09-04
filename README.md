@@ -59,7 +59,7 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Deployment Platforms**
 
-<img src="https://skillicons.dev/icons?i=vercel,gcp" /><img src="https://simpleicons.dev/icons?icons=railway,render,heroku&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,gcp,heroku" /><img src="https://cdn.simpleicons.org/render/white" width="40"/><br/>Render<img src="https://cdn.simpleicons.org/railway/white" width="40"/><br/>Railway
 
 **Additional Experience**
 
