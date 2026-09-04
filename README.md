@@ -10,34 +10,34 @@
   <a href="https://www.youtube.com/@WenDev27">
     <img src="https://img.shields.io/badge/YouTube-WenDev27-red?style=for-the-badge&logo=youtube" />
   </a>
+  <img src="https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
-I'm a 4th-year IT student majoring in Mobile and Web Application Development,
-currently focused on <b>backend engineering</b>, <b>DevSecOps</b>, and
-<b>cloud infrastructure</b>.
+I'm an IT student with a strong interest in <b>backend engineering</b>, <b>DevSecOps</b>, and <b>cloud infrastructure</b>.
 </p>
 
-I enjoy building and understanding software beyond application code — from APIs and databases to containerization, CI/CD, cloud deployment, observability, and secure software practices.
+I enjoy understanding how software works beyond writing application code — from designing APIs and databases to containerization, deployment pipelines, observability, and secure software practices.
+
+Most of my projects are **learning-driven** and **production-inspired**. I enjoy documenting not only what I build, but also the reasoning, trade-offs, and lessons learned throughout the process.
 
 ## 🎯 Current Focus
 
 - 🧩 Backend Engineering
+- 🐧 Linux
 - 🐳 Docker & Containerization
 - 🔒 DevSecOps
 - ☁️ Cloud Infrastructure
 - 🏗️ Software Architecture
 
-## 🤝 Experience
+## 🤝 Connect
 
-- **Volunteer Software Developer — Codebility**
-  - Contributing to an external codebase through collaborative development and code review.
-
-## 🌐 Portfolio
-
-More about my projects, technical work, and learning journey:
-
-**[wendev.app](https://www.wendev.app)**
+| | |
+|---|---|
+| 🌐 **Portfolio** | [wendev.app](https://www.wendev.app) |
+| 🤝 **Volunteer Software Developer** | Codebility |
+| 📧 **Email** | [wen.dev27@gmail.com](mailto:wen.dev27@gmail.com) |
+| 🎥 **YouTube** | [@WenDev27](https://www.youtube.com/@WenDev27) |
 
 ## ⚙️ Tech Stack
 
@@ -169,3 +169,32 @@ More about my projects, technical work, and learning journey:
 </td>
 </tr>
 </table>
+
+## 🧠 Engineering Mindset
+
+I enjoy understanding not only **how** systems work, but also **why** they are designed that way.
+
+Software engineering is more than writing code — it involves making thoughtful trade-offs, documenting decisions, and continuously improving systems over time.
+
+That's why many of my repositories include documentation, implementation notes, architectural decisions, and learning checkpoints alongside the source code.
+
+## 🌱 Always Learning
+
+I'm continuously exploring topics that strengthen my understanding of modern software engineering, including:
+
+- API Design
+- Database Design
+- Authentication & Authorization
+- CI/CD
+- Observability
+- Infrastructure Fundamentals
+- Secure Software Development
+- System Design
+
+I believe the best way to learn these concepts is by building real projects, experimenting, making mistakes, and continuously improving.
+
+---
+
+<p align="center">
+<i>"Small steps. Long horizons."</i>
+</p>
