@@ -51,7 +51,7 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,mssql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" /><img src="https://simpleicons.dev/icons?icons=microsoftsqlserver&theme=dark" />
 
 **DevOps & Workflow**
 
@@ -59,7 +59,7 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Deployment Platforms**
 
-<img src="https://skillicons.dev/icons?i=vercel,railway,render,heroku,gcp" />
+<img src="https://skillicons.dev/icons?i=vercel,gcp" /><img src="https://simpleicons.dev/icons?icons=railway,render,heroku&theme=dark" />
 
 **Additional Experience**
 
