@@ -43,27 +43,132 @@ Most of my projects are **learning-driven** and **production-inspired**. I enjoy
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>TypeScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" width="48"/><br/>Laravel
+</td>
+</tr>
+</table>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS
+</td>
+</tr>
+</table>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" /><img src="https://simpleicons.dev/icons?icons=microsoftsqlserver&theme=dark" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase
+</td>
+<td align="center">
+<img src="https://simpleicons.dev/icons?icons=microsoftsqlserver&theme=dark" width="48"/><br/>SQL Server
+</td>
+</tr>
+</table>
 
 **DevOps & Workflow**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,bash" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>GitHub Actions
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>Bash
+</td>
+</tr>
+</table>
 
 **Deployment Platforms**
 
-<img src="https://skillicons.dev/icons?i=vercel,gcp,heroku" /><img src="https://cdn.simpleicons.org/render/white" width="40"/><br/>Render<img src="https://cdn.simpleicons.org/railway/white" width="40"/><br/>Railway
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=railway" width="48"/><br/>Railway
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/render/white" width="48"/><br/>Render
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=heroku" width="48"/><br/>Heroku
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>Cloud Run
+</td>
+</tr>
+</table>
 
 **Additional Experience**
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,arduino" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cs" width="48"/><br/>C#
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=arduino" width="48"/><br/>Arduino
+</td>
+</tr>
+</table>
 
 ## 🧠 Engineering Mindset
 
