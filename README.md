@@ -7,28 +7,37 @@
   <a href="mailto:wen.dev27@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
   </a>
+  <a href="https://www.youtube.com/@WenDev27">
+    <img src="https://img.shields.io/badge/YouTube-WenDev27-red?style=for-the-badge&logo=youtube" />
+  </a>
 </p>
 
 <p align="center">
-4th-year IT student (Mobile & Web App Development) transitioning into <b>backend engineering</b> and <b>DevSecOps</b>. Volunteer developer at <a href="https://github.com/codebility">Codebility</a>, contributing to a production codebase under senior engineer review.
+I'm a 4th-year IT student majoring in Mobile and Web Application Development,
+currently focused on <b>backend engineering</b>, <b>DevSecOps</b>, and
+<b>cloud infrastructure</b>.
 </p>
+
+I enjoy building and understanding software beyond application code — from APIs and databases to containerization, CI/CD, cloud deployment, observability, and secure software practices.
 
 ## 🎯 Current Focus
 
-- Backend Engineering (Node.js / TypeScript)
-- Docker & Containerization
-- CI/CD & DevSecOps practices
-- Cloud infrastructure fundamentals (AWS)
+- 🧩 Backend Engineering
+- 🐳 Docker & Containerization
+- 🔒 DevSecOps
+- ☁️ Cloud Infrastructure
+- 🏗️ Software Architecture
 
-## 📌 Projects
+## 🤝 Experience
 
-**[SmartFlood](https://github.com/wendev27/SmartFlood-V3)** — Flood monitoring and disaster-response platform. Currently migrating V3 → V4 to move business logic out of the frontend and into a proper backend service layer.
+- **Volunteer Software Developer — Codebility**
+  - Contributing to an external codebase through collaborative development and code review.
 
-**[DevSecOps-Learning-Lab](https://github.com/wendev27/DevSecOps-Learning-Lab)** — Hands-on DevSecOps practice: containerization, pipelines, and secure deployment workflows, documented as I build them.
+## 🌐 Portfolio
 
-**PayMongo Webhook Integration** — Practice project handling PayMongo webhook events end-to-end, built as a freelance-readiness proof piece.
+More about my projects, technical work, and learning journey:
 
-*(Swap in real links/repo names above — I used placeholders based on what you've described.)*
+**[wendev.app](https://www.wendev.app)**
 
 ## ⚙️ Tech Stack
 
@@ -160,9 +169,3 @@
 </td>
 </tr>
 </table>
-
-## 🌱 Currently Learning
-
-API design · database design · CI/CD · observability · infrastructure fundamentals · secure software development · system design
-
-Learning happens through building — most repos above include implementation notes and the trade-offs behind them, not just source code.
