@@ -18,7 +18,7 @@ currently focused on <b>backend engineering</b>, <b>DevSecOps</b>, and
 <b>cloud infrastructure</b>.
 </p>
 
-I enjoy building and understanding software beyond application code — from APIs and databases to containerization, CI/CD, cloud deployment, observability, and secure software practices.
+I build web applications, work with APIs and databases, and explore secure deployment and infrastructure practices. I also enjoy solving practical IT problems through hardware troubleshooting, system configuration, and small software tools that improve real-world workflows.
 
 ## 🎯 Current Focus
 
@@ -31,7 +31,13 @@ I enjoy building and understanding software beyond application code — from API
 ## 🤝 Experience
 
 - **Volunteer Software Developer — Codebility**
-  - Contributing to an external codebase through collaborative development and code review.
+  - Contribute to an external codebase through collaborative development, feature implementation, and code review.
+
+- **Volunteer IT Support & Software Developer — Medical Equipment Company**
+  - Troubleshoot hardware and software issues, diagnose malfunctioning components, and replace defective parts where appropriate.
+  - Perform computer formatting, operating system installation, hardware setup, and system configuration.
+  - Develop internal tools to improve access to technical documentation and support business workflows.
+  - Provide technical recommendations on hardware compatibility, system requirements, and troubleshooting approaches.
 
 ## 🌐 Portfolio
 
