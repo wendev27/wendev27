@@ -16,18 +16,17 @@
 I'm a 4th-year IT student majoring in Mobile and Web Application Development,
 currently focused on <b>backend engineering</b>, <b>DevSecOps</b>, and
 <b>cloud infrastructure</b>.
-  <br/><b>Looking for backend / DevOps internships and junior roles.</b>
+  <br/></br><b>Looking for backend / DevOps internships and junior roles.</b>
 </p>
 
 I build web applications, work with APIs and databases, and explore secure deployment and infrastructure practices. I also enjoy solving practical IT problems through hardware troubleshooting, system configuration, and small software tools that improve real-world workflows.
 
 ## 🎯 Current Focus
 
-- 🧩 Backend Engineering
-- 🐳 Docker & Containerization
-- 🔒 DevSecOps
-- ☁️ Cloud Infrastructure
-- 🏗️ Software Architecture
+🧩 Backend engineering: APIs, authentication, databases
+🐳 Docker & cloud deployment: Dockerized apps deployed on Cloud Run and AWS
+🔒 Security-minded development: JWT auth, RBAC, CSRF protection, webhook verification
+🏗️ Software architecture: moving projects from prototypes to proper service layers
 
 ## 🤝 Experience
 
