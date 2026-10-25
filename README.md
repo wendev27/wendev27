@@ -28,7 +28,7 @@ I build web applications, work with APIs and databases, and explore secure deplo
 - 🐳 **Docker & cloud deployment:** Dockerized apps deployed on Cloud Run and AWS
 - 🔒 **Security-minded development:** JWT auth, RBAC, CSRF protection, webhook verification
 - 🏗️ **Software architecture:** moving projects from prototypes to proper service layers
-
+- 🔄 **CI/CD & DevSecOps:** GitHub Actions, Docker Hub deployment, CodeQL and Trivy gates, branch protection ([DevSecOps-Learning-Lab](https://github.com/wendev27/DevSecOps-Learning-Lab))
 
 ## 🤝 Experience
 
