@@ -16,22 +16,28 @@
 I'm a 4th-year IT student majoring in Mobile and Web Application Development,
 currently focused on <b>backend engineering</b>, <b>DevSecOps</b>, and
 <b>cloud infrastructure</b>.
-  <br/></br><b>Looking for backend / DevOps internships and junior roles.</b>
+<br/><br/>
+<b>Looking for backend / DevOps internships and junior roles.</b>
 </p>
 
 I build web applications, work with APIs and databases, and explore secure deployment and infrastructure practices. I also enjoy solving practical IT problems through hardware troubleshooting, system configuration, and small software tools that improve real-world workflows.
 
 ## 🎯 Current Focus
 
-🧩 Backend engineering: APIs, authentication, databases
-🐳 Docker & cloud deployment: Dockerized apps deployed on Cloud Run and AWS
-🔒 Security-minded development: JWT auth, RBAC, CSRF protection, webhook verification
-🏗️ Software architecture: moving projects from prototypes to proper service layers
+- 🧩 **Backend engineering:** APIs, authentication, databases
+- 🐳 **Docker & cloud deployment:** Dockerized apps deployed on Cloud Run and AWS
+- 🔒 **Security-minded development:** JWT auth, RBAC, CSRF protection, webhook verification
+- 🏗️ **Software architecture:** moving projects from prototypes to proper service layers
+
 
 ## 🤝 Experience
 
-- **Volunteer Software Developer — Codebility**
-  - Contribute to an external codebase through collaborative development, feature implementation, and code review.
+- **Volunteer Software Developer, Codebility**
+  - Contribute to two team projects under senior engineer code review.
+  - **Codebility Portal** (dev-talent platform)
+  - **CodevPlay** (full-stack mini-games monorepo)
+    - [Chess UI overhaul #74](https://github.com/Zeff01/codev-play/pull/74): custom chessboard (Tailwind, chess.js), drag-and-drop with Framer Motion, material tracking; refactored types and utils per reviewer feedback
+    - [Dashboard #62](https://github.com/Zeff01/codev-play/pull/62): built the game dashboard (stats, quick play, active history, leaderboards)
 
 - **Volunteer IT Support & Software Developer — Medical Equipment Company**
   - Troubleshoot hardware and software issues, diagnose malfunctioning components, and replace defective parts where appropriate.
