@@ -13,44 +13,61 @@
 </p>
 
 <p align="center">
-I'm a 4th-year IT student majoring in Mobile and Web Application Development,
-currently focused on <b>backend engineering</b>, <b>DevSecOps</b>, and
-<b>cloud infrastructure</b>.
+4th-year IT student (Mobile and Web Application Development) focused on
+<b>backend engineering</b>, <b>DevSecOps</b>, and <b>cloud infrastructure</b>.
 <br/><br/>
 <b>Looking for backend / DevOps internships and junior roles.</b>
 </p>
 
-I build web applications, work with APIs and databases, and explore secure deployment and infrastructure practices. I also enjoy solving practical IT problems through hardware troubleshooting, system configuration, and small software tools that improve real-world workflows.
-
 ## 🎯 Current Focus
 
 - 🧩 **Backend engineering:** APIs, authentication, databases
-- 🐳 **Docker & cloud deployment:** Dockerized apps deployed on Cloud Run and AWS
+- 🐳 **Docker and cloud deployment:** Dockerized services on Cloud Run; AWS migration in progress
 - 🔒 **Security-minded development:** JWT auth, RBAC, CSRF protection, webhook verification
-- 🏗️ **Software architecture:** moving projects from prototypes to proper service layers
-- 🔄 **CI/CD & DevSecOps:** GitHub Actions, Docker Hub deployment, CodeQL and Trivy gates, branch protection ([DevSecOps-Learning-Lab](https://github.com/wendev27/DevSecOps-Learning-Lab))
+- 🔄 **CI/CD and DevSecOps:** GitHub Actions, Docker Hub deployment, CodeQL and Trivy gates, branch protection ([DevSecOps-Learning-Lab](https://github.com/wendev27/DevSecOps-Learning-Lab))
+- 🏗️ **Architecture:** moving projects from prototypes to proper service layers
 
 ## 🤝 Experience
 
 - **Volunteer Software Developer, Codebility**
-  - Contribute to two team projects under senior engineer code review.
-  - **Codebility Portal** (dev-talent platform)
+  - Contribute to team projects under senior engineer code review.
   - **CodevPlay** (full-stack mini-games monorepo)
     - [Chess UI overhaul #74](https://github.com/Zeff01/codev-play/pull/74): custom chessboard (Tailwind, chess.js), drag-and-drop with Framer Motion, material tracking; refactored types and utils per reviewer feedback
-    - [Dashboard #62](https://github.com/Zeff01/codev-play/pull/62): built the game dashboard (stats, quick play, active history, leaderboards)
-
-- **Volunteer IT Support & Software Developer — Medical Equipment Company**
-  - Troubleshoot hardware and software issues, diagnose malfunctioning components, and replace defective parts where appropriate.
-  - Perform computer formatting, operating system installation, hardware setup, and system configuration.
-  - Develop internal tools to improve access to technical documentation and support business workflows.
-  - Provide technical recommendations on hardware compatibility, system requirements, and troubleshooting approaches.
+    - [Dashboard #62](https://github.com/Zeff01/codev-play/pull/62): game dashboard (stats, quick play, active history, leaderboards)
+  - **Codebility Portal** (dev-talent platform)
+  <!-- Uncomment after the Portal PRs merge, and put it above CodevPlay:
+    - [PR title](LINK): what it fixed, plus a result
+  -->
+- **Volunteer IT Support and Software Developer, Medical Equipment Company**
+  - Diagnosed and repaired hardware and software faults; handled OS installation, hardware setup, and system configuration.
+  - Built internal tools for access to technical documentation.
+  - Advised on hardware compatibility, system requirements, and troubleshooting.
 
 ## 🌐 Portfolio
 
-More about my projects, technical work, and learning journey:
+More projects and my learning journey: **[wendev.app](https://www.wendev.app)**
 
-**[wendev.app](https://www.wendev.app)**
+## 🚀 Featured Project
 
+**[SmartFlood](https://github.com/wendev27/SmartFlood)**: AI-assisted flood relief and disaster-response platform, built across five generations.
+- Frontend on Vercel; backend and AI services deployed as independent services on Google Cloud Run
+- Backend authorization, secure QR tokens, and OWASP hardening
+- Migrating to AWS (ECS/Fargate) with Terraform and CI/CD ([V5](https://github.com/wendev27/Smart-Flood-V5-AWS))
+
+## 🛠️ Tech Stack
+
+**Primary**
+- **Backend:** Node.js, TypeScript, REST APIs, JWT/RBAC, PostgreSQL, Redis
+- **Frontend:** React, Next.js, Tailwind CSS
+- **DevOps and Security:** Docker, GitHub Actions, Trivy, CodeQL, Prometheus/Grafana, Kubernetes (Kind), Linux, Bash, Git
+- **Cloud:** Google Cloud Run, Vercel, Render; AWS ECS/Fargate and Terraform in progress
+
+**Also worked with**
+- Databases: MySQL, MongoDB, Supabase, Firebase, SQL Server
+- Languages and frameworks: PHP/Laravel, Java, C#, C++, Arduino/ESP32
+- Earlier deployments: Railway, Heroku
+
+<!--
 ## ⚙️ Tech Stack
 
 **Backend**
@@ -181,3 +198,4 @@ More about my projects, technical work, and learning journey:
 </td>
 </tr>
 </table>
+-->
