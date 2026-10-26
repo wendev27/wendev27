@@ -30,6 +30,7 @@
 ## 🤝 Experience
 
 - **Volunteer Software Developer, Codebility**
+  - Advanced from Intern to Codev tier within Codebility's contributor program.
   - Contribute to team projects under senior engineer code review.
   - **CodevPlay** (full-stack mini-games monorepo)
     - [Chess UI overhaul #74](https://github.com/Zeff01/codev-play/pull/74): custom chessboard (Tailwind, chess.js), drag-and-drop with Framer Motion, material tracking; refactored types and utils per reviewer feedback
