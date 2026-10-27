@@ -36,6 +36,7 @@
     - [Chess UI overhaul #74](https://github.com/Zeff01/codev-play/pull/74): custom chessboard (Tailwind, chess.js), drag-and-drop with Framer Motion, material tracking; refactored types and utils per reviewer feedback
     - [Dashboard #62](https://github.com/Zeff01/codev-play/pull/62): game dashboard (stats, quick play, active history, leaderboards)
   - **Codebility Portal** (dev-talent platform)
+    - [Kanban member search #638](https://github.com/CodebilityDev/codebility-plus/pull/638): debounced search with timer cleanup and stale-response protection, duplicate-selection prevention, and clear marking of current project members;
   <!-- Uncomment after the Portal PRs merge, and put it above CodevPlay:
     - [PR title](LINK): what it fixed, plus a result
   -->
